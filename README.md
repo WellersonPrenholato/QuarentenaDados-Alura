@@ -1,4 +1,4 @@
-# QuarentenaDados-Alura
+# 📌 QuarentenaDados-Alura
 
 Semana <b>#QuarentenaDados</b> promovido pela Alura Cursos Online, Caelum e Data Hackers, e demais apoiadores nesta semana de muito aprendizado.
  
